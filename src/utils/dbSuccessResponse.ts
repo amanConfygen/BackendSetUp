@@ -1,4 +1,4 @@
-import { ApiResponse } from '../types/types';
+import { ApiResponse } from '../types/types'
 
 // export const dbSuccessResponse = <T>(
 //     message: string,
@@ -11,9 +11,9 @@ import { ApiResponse } from '../types/types';
 //     };
 // };
 
-
 export const dbSuccessResponse = <T>(message: string, data?: T): ApiResponse<T> => ({
     success: true,
     message,
-    data
-});
+    data: data
+})
+

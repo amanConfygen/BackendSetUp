@@ -6041,3 +6041,302 @@
         "SERVER_URL": "http://localhost:8804"
     }
 }
+{
+    "timestamp": "2025-02-11T06:57:51.423Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:57:51.429Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T06:57:51.430Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:57:55.449Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:57:55.456Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T06:57:55.456Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:58:10.966Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:58:10.981Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T06:58:10.983Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:58:26.030Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:58:26.037Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T06:58:26.038Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:58:30.109Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:58:30.127Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T06:58:30.129Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:59:36.711Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T06:59:36.716Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T06:59:36.716Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:27.533Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:27.548Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:00:27.549Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:37.576Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:37.588Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:00:37.589Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:40.532Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:40.538Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:00:40.539Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:48.457Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:00:48.468Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:00:48.470Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:01:29.385Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:01:29.389Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:01:29.390Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:01:35.670Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:01:35.679Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:01:35.680Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:01:54.214Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-11T07:01:54.218Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-11T07:01:54.219Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
